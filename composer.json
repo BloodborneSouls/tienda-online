@@ -1,0 +1,26 @@
+{
+    "name": "kawschool/tienda-online",
+    "description": "creacion de una tienda online",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roman Alberto Inzunza Jerezano",
+            "email": "tird82118099@utparral.edu.mx"
+        },
+        {
+            "name": "Roberto Martinez Corral"
+        },
+        {
+            "name": "Juan David Burgos Flores"
+        }
+    ],
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Utienda\\":"src/"
+        }
+    }
+}
